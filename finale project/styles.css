@@ -465,7 +465,7 @@ tbody tr:nth-child(even) {
 .plan{
      min-height: 400px;
     background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url("history.jpeg");
+    url("plan.jpeg");
     background-size: cover;
     background-position: center;
     color: white;
